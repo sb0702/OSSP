@@ -1,3 +1,2 @@
 # OSSP
-ex
 Hello World!
